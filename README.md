@@ -1,4 +1,4 @@
-Level- 1 Initialization and Setup of Cache
+v0.1.0 - Initialization and Setup of L1 and L2 Semantic Cache
 
 Features:
 -->Hierarchial Semantic Memory
